@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mehrdadanari/COMP2156/static/css/main.27ca76a1.css",
-    "main.js": "/mehrdadanari/COMP2156/static/js/main.20af1e7c.js",
-    "static/js/453.f27d8bf6.chunk.js": "/mehrdadanari/COMP2156/static/js/453.f27d8bf6.chunk.js",
-    "index.html": "/mehrdadanari/COMP2156/index.html",
-    "main.27ca76a1.css.map": "/mehrdadanari/COMP2156/static/css/main.27ca76a1.css.map",
-    "main.20af1e7c.js.map": "/mehrdadanari/COMP2156/static/js/main.20af1e7c.js.map",
-    "453.f27d8bf6.chunk.js.map": "/mehrdadanari/COMP2156/static/js/453.f27d8bf6.chunk.js.map"
+    "main.css": "/COMP2156/static/css/main.27ca76a1.css",
+    "main.js": "/COMP2156/static/js/main.02e16997.js",
+    "static/js/453.f27d8bf6.chunk.js": "/COMP2156/static/js/453.f27d8bf6.chunk.js",
+    "index.html": "/COMP2156/index.html",
+    "main.27ca76a1.css.map": "/COMP2156/static/css/main.27ca76a1.css.map",
+    "main.02e16997.js.map": "/COMP2156/static/js/main.02e16997.js.map",
+    "453.f27d8bf6.chunk.js.map": "/COMP2156/static/js/453.f27d8bf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27ca76a1.css",
-    "static/js/main.20af1e7c.js"
+    "static/js/main.02e16997.js"
   ]
 }
